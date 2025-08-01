@@ -1,0 +1,5 @@
+.cart table { width: 100%; border-collapse: collapse; margin-bottom: 1rem; }
+.cart-table th, .cart-table td { padding: 0.8rem; border-bottom: 1px solid #ddd; text-align: center; }
+.cart-total { font-size: 1.4rem; margin-top: 1rem; color: #ff4e50; }
+.cart-actions button { margin-right: 1rem; }
+.cart-empty { text-align: center; }

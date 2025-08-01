@@ -1,0 +1,7 @@
+.footer { background: #333; color: #fff; padding: 2rem 0; }
+.footer-container { display: flex; justify-content: space-around; flex-wrap: wrap; }
+.footer-container h4 { margin-bottom: 0.5rem; }
+.footer-links ul, .footer-social { list-style: none; padding: 0; }
+.footer-links li { margin-bottom: 0.5rem; }
+.footer-links a, .footer-social a { color: #ff4e50; }
+.footer-bottom { text-align: center; margin-top: 1rem; font-size: 0.9rem; }
